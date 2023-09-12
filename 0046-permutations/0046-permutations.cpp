@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    void solve(int ind,vector<int> nums,vector<int> v){
+    void solve(int ind,vector<int>& nums,vector<int>& v){
         if(ind==nums.size()){
             ans.push_back(v);
             return;
