@@ -49,6 +49,7 @@
 | [1137-height-checker](https://github.com/RishavJain21/leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/RishavJain21/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/RishavJain21/leetcode/tree/master/1217-relative-sort-array) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RishavJain21/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RishavJain21/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/RishavJain21/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1814-jump-game-vi](https://github.com/RishavJain21/leetcode/tree/master/1814-jump-game-vi) |
@@ -85,15 +86,18 @@
 # Queue
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RishavJain21/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1814-jump-game-vi](https://github.com/RishavJain21/leetcode/tree/master/1814-jump-game-vi) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/RishavJain21/leetcode/tree/master/0502-ipo) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RishavJain21/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1814-jump-game-vi](https://github.com/RishavJain21/leetcode/tree/master/1814-jump-game-vi) |
 # Monotonic Queue
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RishavJain21/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1814-jump-game-vi](https://github.com/RishavJain21/leetcode/tree/master/1814-jump-game-vi) |
 # Counting Sort
 |  |
@@ -111,3 +115,8 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/RishavJain21/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RishavJain21/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RishavJain21/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
