@@ -1,6 +1,8 @@
 class Solution {
 public:
+    map<pair<int,int>,vector<int>> mp;
     vector<int> solve(string s,int i,int j){
+        if(mp.find(make_pair(i,j))!=mp.end()) return mp[make_pair(i,j)];
         vector<int> ans;
         bool m=true;
         string temp="";
@@ -40,7 +42,7 @@ public:
         }
         int n=stoi(temp);
         if(m) ans.push_back(n);
-        return ans;
+        return mp[make_pair(i,j)]=ans;
     }
     vector<int> diffWaysToCompute(string s) {
         return solve(s,0,s.size()-1);
