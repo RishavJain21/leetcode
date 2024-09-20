@@ -8,8 +8,8 @@ public:
         long long a=1;
         int lpp=0;
         for(int i=0;i<n;i++){
-            fh=(fh+(s[i]-'a'+1)*a)%MOD;
             rh=(rh*p+(s[i]-'a'+1))%MOD;
+            fh=(fh+(s[i]-'a'+1)*a)%MOD;
 
             a=(a*p)%MOD;
             if(fh==rh){
