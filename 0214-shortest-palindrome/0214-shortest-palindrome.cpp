@@ -8,8 +8,8 @@ public:
         long long a=1;
         int lpp=0;
         for(int i=0;i<n;i++){
-            rh=(rh*p+(s[i]-'a'+1))%MOD;
             fh=(fh+(s[i]-'a'+1)*a)%MOD;
+            rh=(rh*p+(s[i]-'a'+1))%MOD;
 
             a=(a*p)%MOD;
             if(fh==rh){
@@ -19,8 +19,8 @@ public:
         return lpp;
     }
     string shortestPalindrome(string s) {
+        if(s.length()<2) return s;
         int j=lPP(s);
-        if(s.length()<2 || j==s.length()-1) return s;
         string a=s.substr(j+1,s.length()-j);
         reverse(a.begin(),a.end());
         return a+s;
