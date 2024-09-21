@@ -1,14 +1,14 @@
 class Solution {
 public:
-    void solve(int k,int n,vector<int>& ans){
-        if(k>n) return;
-        ans.push_back(k);
-        for(int i=0;i<=9;i++){
-            int temp=k*10+i;
-            if(temp<=n) solve(temp,n,ans);
-            else break;
-        }
-    }
+    // void solve(int k,int n,vector<int>& ans){
+    //     if(k>n) return;
+    //     ans.push_back(k);
+    //     for(int i=0;i<=9;i++){
+    //         int temp=k*10+i;
+    //         if(temp<=n) solve(temp,n,ans);
+    //         else break;
+    //     }
+    // }
     
     vector<int> lexicalOrder(int n) {
         vector<int> ans;
