@@ -165,6 +165,7 @@
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
 | [2755-extra-characters-in-a-string](https://github.com/RishavJain21/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishavJain21/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/RishavJain21/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishavJain21/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/RishavJain21/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishavJain21/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -231,4 +234,5 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/RishavJain21/leetcode/tree/master/0386-lexicographical-numbers) |
 | [2755-extra-characters-in-a-string](https://github.com/RishavJain21/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishavJain21/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
