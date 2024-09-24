@@ -26,22 +26,7 @@ public:
         }
         current->isEndOfWord = true;
     }
-
-    // vector<int> search(const string &s, int i) {
-    //     vector<int> matchedIndices;
-    //     TrieNode* current = root;
-
-    //     for (int j = i; j < s.length(); j++) {
-    //         if (current->children.find(s[j]) == current->children.end()) {
-    //             break;
-    //         }
-    //         current = current->children[s[j]];
-    //         if (current->isEndOfWord) {
-    //             matchedIndices.push_back(j + 1);
-    //         }
-    //     }
-    //     return matchedIndices;
-    // }
+     
     int longestPrefix(const string &s){
         TrieNode* current = root;
         int i=0;
@@ -50,9 +35,6 @@ public:
             if (current->children.find(s[j]) != current->children.end()) {
                 i++;
                 current = current->children[s[j]];
-                // if (current->isEndOfWord) {
-                //     lp=i;
-                // }
             }else break;
         }
         return i;
