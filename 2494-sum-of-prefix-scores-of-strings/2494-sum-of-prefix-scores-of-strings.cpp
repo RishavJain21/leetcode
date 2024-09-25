@@ -1,11 +1,8 @@
 class TrieNode {
 public:
-    unordered_map<char, TrieNode*> children;
-    // bool isEndOfWord;
+    // unordered_map<char, TrieNode*> children;
+    TrieNode* children[26];
     int count=0;
-    // TrieNode() {
-    //     isEndOfWord = false;
-    // }
 };
 
 class Trie {
@@ -19,10 +16,10 @@ public:
     void insert(const string &word) {
         TrieNode* current = root;
         for (char c : word) {
-            if (current->children.find(c) == current->children.end()) {
-                current->children[c] = new TrieNode();
+            if (!current->children[c-'a']) {
+                current->children[c-'a'] = new TrieNode();
             }
-            current = current->children[c];
+            current = current->children[c-'a'];
             current->count++;
         }
     }
@@ -32,10 +29,8 @@ public:
         int i=0;
 
         for (int j = 0; j < s.length(); j++) {
-            if (current->children.find(s[j]) != current->children.end()) {
-                current = current->children[s[j]];
-                i+=current->count;
-            }else break;
+            current = current->children[s[j]-'a'];
+            i+=current->count;
         }
         return i;
     }
