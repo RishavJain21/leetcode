@@ -1,11 +1,11 @@
 class TrieNode {
 public:
     unordered_map<char, TrieNode*> children;
-    bool isEndOfWord;
+    // bool isEndOfWord;
     int count=0;
-    TrieNode() {
-        isEndOfWord = false;
-    }
+    // TrieNode() {
+    //     isEndOfWord = false;
+    // }
 };
 
 class Trie {
@@ -25,7 +25,6 @@ public:
             current = current->children[c];
             current->count++;
         }
-        current->isEndOfWord = true;
     }
      
     int sumPrefix(const string &s){
