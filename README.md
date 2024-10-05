@@ -184,6 +184,7 @@
 | [0214-shortest-palindrome](https://github.com/RishavJain21/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishavJain21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RishavJain21/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/RishavJain21/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -197,6 +198,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/RishavJain21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/RishavJain21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -281,4 +283,12 @@
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/RishavJain21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
