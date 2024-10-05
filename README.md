@@ -181,6 +181,7 @@
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/RishavJain21/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/RishavJain21/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishavJain21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -200,6 +201,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/RishavJain21/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/RishavJain21/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -294,5 +296,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/RishavJain21/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
