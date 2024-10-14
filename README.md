@@ -173,6 +173,7 @@
 | [1923-sentence-similarity-iii](https://github.com/RishavJain21/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RishavJain21/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RishavJain21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/RishavJain21/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/RishavJain21/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishavJain21/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -226,6 +227,7 @@
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RishavJain21/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RishavJain21/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/RishavJain21/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -320,4 +322,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/RishavJain21/leetcode/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/RishavJain21/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
