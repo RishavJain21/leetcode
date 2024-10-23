@@ -30,7 +30,6 @@ public:
                 if(a->right)q.push(a->right);
             }
         }
-        for(auto i:ls) cout<<i<<" ";
         int i=1;
         q.push(root);
         q.push(NULL);
