@@ -32,21 +32,6 @@ public:
         current->ie=true;
         return 1;
     }
-    // void getString(TrieNode* node,string cw,vector<string> &ans){
-    //     if(!node) return;
-    //     if(node->ie==true) ans.push_back('/'+cw.substr(0,cw.size()-1));
-    //     for(int i=0;i<27;i++){
-    //         char c;
-    //         if(node->children[i]){
-    //             if(i==26){
-    //                 c='/';
-    //             }else{
-    //                 c='a'+i;
-    //             }
-    //             getString(node->children[i],cw+c,ans);
-    //         }
-    //     }
-    // }
 };
 class Solution {
 public:
@@ -59,7 +44,6 @@ public:
         for(auto i:folder){
             if(trie->insert(i+'/')) ans.push_back(i);
         }
-        // trie->getString(trie->root,"",ans);
         return ans;
     }
 };
