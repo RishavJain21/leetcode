@@ -2,7 +2,6 @@ class Solution {
 public:
     int countSquares(vector<vector<int>>& matrix) {
         int n=matrix.size(),m=matrix[0].size();
-        // vector<vector<int>> v(n+1,(vector<int>(m+1,0)));
         vector<int> v1(m+1,0),v2(m+1,0);
 
         int ans=0;
