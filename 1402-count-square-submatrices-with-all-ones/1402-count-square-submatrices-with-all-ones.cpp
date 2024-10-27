@@ -2,19 +2,20 @@ class Solution {
 public:
     int countSquares(vector<vector<int>>& matrix) {
         int n=matrix.size(),m=matrix[0].size();
-        vector<int> v1(m+1,0),v2(m+1,0);
-
         int ans=0;
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+            ans+=matrix[i][0]==1;
+        }
+        for(int i=1;i<m;i++){
+            ans+=matrix[0][i]==1;
+        }
+        for(int i=1;i<n;i++){
+            for(int j=1;j<m;j++){
                 if(matrix[i][j]==1){
-                    v2[j+1]=min({v1[j+1],v2[j],v1[j]})+1;
-                    ans+=v2[j+1];
+                    matrix[i][j]=min({matrix[i-1][j],matrix[i][j-1],matrix[i-1][j-1]})+1;
+                    ans+=matrix[i][j];
                 }
-            }
-            for(int k=1;k<=m;k++){
-                v1[k]=v2[k];
-                v2[k]=0;
+                
             }
         }
         return ans;
