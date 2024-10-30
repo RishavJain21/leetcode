@@ -22,7 +22,7 @@ public:
 
         int ans=n;
         for(int i=0;i<n;i++){
-            if(v1[i]!=1 && v2[i]!=1) ans=min(ans,n+1-v1[i]-v2[i]);
+            if(v1[i]>1 && v2[i]>1) ans=min(ans,n+1-v1[i]-v2[i]);
         }
         return ans;
     }
