@@ -172,6 +172,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RishavJain21/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RishavJain21/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/RishavJain21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/RishavJain21/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RishavJain21/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishavJain21/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -241,6 +242,7 @@
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RishavJain21/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/RishavJain21/leetcode/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RishavJain21/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RishavJain21/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/RishavJain21/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -249,6 +251,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishavJain21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RishavJain21/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/RishavJain21/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RishavJain21/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -293,6 +296,7 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/RishavJain21/leetcode/tree/master/0729-my-calendar-i) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Design
 |  |
