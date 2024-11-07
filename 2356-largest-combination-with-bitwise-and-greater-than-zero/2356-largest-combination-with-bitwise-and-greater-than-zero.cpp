@@ -6,7 +6,7 @@ public:
         for(auto n:c){
             i=0;
             while(n){
-                if(n&1)v[i]++;
+                if(n&1)v[i]=v[i]+1;
                 n=n>>1;
                 i++;
             }
