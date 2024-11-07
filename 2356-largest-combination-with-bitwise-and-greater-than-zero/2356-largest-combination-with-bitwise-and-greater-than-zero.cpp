@@ -4,10 +4,8 @@ public:
         for(auto n:c){
             int i=0;
             while(n){
-                if(n%2==1){
-                    v[i]++;
-                }
-                n/=2;
+                if(n&1)v[i]++;
+                n=n>>1;
                 i++;
             }
         }
