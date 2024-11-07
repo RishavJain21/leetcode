@@ -1,7 +1,7 @@
 class Solution {
 public:
     int largestCombination(vector<int>& c) {
-        vector<int> v(24,0);
+        int v[24];
         for(auto n:c){
             int i=0;
             while(n){
