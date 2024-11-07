@@ -6,7 +6,7 @@ public:
             int i=0;
             while(n){
                 if(n&1)v[i]++;
-                n>>=1;
+                n=n>>1;
                 i++;
             }
         }
