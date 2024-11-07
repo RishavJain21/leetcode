@@ -13,7 +13,7 @@ public:
         }
 
         int ans=0;
-        for(i=0;i<24;i++)ans=max(ans,v[i]);
+        for(auto i:v)ans=max(ans,i);
         return ans;
     }
 };
