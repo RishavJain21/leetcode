@@ -2,8 +2,9 @@ class Solution {
 public:
     int largestCombination(vector<int>& c) {
         int v[24];
+        int i;
         for(auto n:c){
-            int i=0;
+            i=0;
             while(n){
                 if(n&1)v[i]++;
                 n=n>>1;
