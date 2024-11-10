@@ -43,12 +43,10 @@ public:
         int o=0,ans=nums.size()+1;
         while(j<nums.size()){
             solve1(nums[j],v);
-            if(solve4(v)>=k){
-                while(i<j && solve3(nums[i],v)>=k){
-                    solve2(nums[i],v);
-                    i++;
-                }
+            while(i<=j && solve4(v)>=k){
                 ans=min(ans,(j-i+1));
+                solve2(nums[i],v);
+                i++;
             }
             j++;
         }
