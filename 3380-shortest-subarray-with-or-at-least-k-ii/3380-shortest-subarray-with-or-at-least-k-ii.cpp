@@ -18,17 +18,6 @@ public:
         }
     }
 
-    int solve3(int n,vector<int>& v){
-        int c=solve4(v);
-        int i=0;
-        while(n){
-            if(n&1 && v[i]==1)c=c-(1<<i);
-            i++;
-            n=n>>1;
-        }
-        return c; 
-    }
-
     int solve4(vector<int>&v){
         int a=0;
         for(int i=0;i<31;i++){
