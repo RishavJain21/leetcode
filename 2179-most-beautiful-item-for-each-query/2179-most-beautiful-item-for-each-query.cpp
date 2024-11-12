@@ -15,17 +15,18 @@ public:
     }
     vector<int> maximumBeauty(vector<vector<int>>& items, vector<int>& q) {
         sort(items.begin(),items.end());
-        vector<vector<int>> v;
+        int j=0;
         for(int i=1;i<items.size();i++){
-            if(items[i][0]!=items[i-1][0]) v.push_back(items[i-1]);
+            if(items[i][0]!=items[i-1][0]) items[j++]=items[i-1];
         }
-        v.push_back(items[items.size()-1]);
-        for(int i=1;i<v.size();i++){
-            v[i][1]=max(v[i][1],v[i-1][1]);
+        items[j++]=items[items.size()-1];
+        items.resize(j);
+        for(int i=1;i<items.size();i++){
+            items[i][1]=max(items[i][1],items[i-1][1]);
         }
         vector<int> ans(q.size(),0);
         for(int i=0;i<q.size();i++){
-            ans[i]=solve(v,q[i]);
+            ans[i]=solve(items,q[i]);
         }
         return ans;
     }
