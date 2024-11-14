@@ -8,7 +8,10 @@ public:
         return k<=n;
     }
     int minimizedMaximum(int n, vector<int>& q) {
-        int i=1,j=100000,mid,ans=100000;
+        int i=1,j=1,mid,ans=100000;
+        for(auto k:q){
+            j=max(k,j);
+        }
         while(i<=j){
             mid=i+(j-i)/2;
             if(solve(n,q,mid)){
