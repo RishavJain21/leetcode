@@ -162,6 +162,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/RishavJain21/leetcode/tree/master/0729-my-calendar-i) |
@@ -364,6 +365,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/RishavJain21/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RishavJain21/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
