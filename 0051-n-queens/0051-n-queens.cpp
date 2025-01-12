@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool valid(int row,int col,vector<string> arr)
+    bool valid(int row,int col,vector<string>& arr)
     {
         int n = arr.size(),i,j;
         for(i=0;i<n;i++){
@@ -37,7 +37,7 @@ public:
 
         return true;
     }
-    void dfs(int index,int count,int n,vector<string> arr,vector<vector<string>> &ans)
+    void dfs(int index,int count,int n,vector<string>& arr,vector<vector<string>> &ans)
     {
         if(count==n)
         {
