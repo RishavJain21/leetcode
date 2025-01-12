@@ -39,7 +39,7 @@ public:
     }
     void dfs(int index,int count,int n,vector<string>& arr,vector<vector<string>> &ans)
     {
-        if(count==n)
+        if(index==n)
         {
             ans.push_back(arr);
             return;
