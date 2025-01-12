@@ -163,6 +163,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/RishavJain21/leetcode/tree/master/0051-n-queens) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/RishavJain21/leetcode/tree/master/0729-my-calendar-i) |
@@ -427,4 +428,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/RishavJain21/leetcode/tree/master/2716-prime-subtraction-operation) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RishavJain21/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
