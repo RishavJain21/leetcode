@@ -2,20 +2,20 @@ class Solution {
 public:
     bool valid(int row,int col,vector<string> arr)
     {
-        int n = arr.size();
-        for(int i=0;i<n;i++){
+        int n = arr.size(),i,j;
+        for(i=0;i<n;i++){
             if(arr[row][i]!='.'){
                 return false;
             }
         }
-        for(int i=0;i<n;i++){
+        for(i=0;i<n;i++){
             if(arr[i][col]!='.'){
                 return false;
             }
         }
 
-        int i=row;
-        int j=col;
+        i=row;
+        j=col;
         while(i>=0 && j>=0)
         {
             if(arr[i][j]!='.'){
@@ -44,10 +44,6 @@ public:
             ans.push_back(arr);
             return;
         }
-        if(index>=n)
-        {
-            return;
-        }
 
         for(int i=0;i<n;i++){
             if(valid(index,i,arr))
@@ -59,15 +55,8 @@ public:
         }
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<string> arr;
-        string curr;
+        vector<string> arr(n,string(n,'.'));
         vector<vector<string>> ans;
-        for(int i=0;i<n;i++){
-            curr+='.';
-        }
-        for(int i=0;i<n;i++){
-            arr.push_back(curr);
-        }
 
         dfs(0,0,n,arr,ans);
 
