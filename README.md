@@ -181,6 +181,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RishavJain21/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RishavJain21/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RishavJain21/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/RishavJain21/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishavJain21/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RishavJain21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -428,6 +429,7 @@
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/RishavJain21/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RishavJain21/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/RishavJain21/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RishavJain21/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/RishavJain21/leetcode/tree/master/3394-minimum-array-end) |
 ## Number Theory
@@ -442,4 +444,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavJain21/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/RishavJain21/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
