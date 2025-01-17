@@ -212,6 +212,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RishavJain21/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/RishavJain21/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1250-longest-common-subsequence](https://github.com/RishavJain21/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RishavJain21/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/RishavJain21/leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RishavJain21/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -275,6 +276,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishavJain21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/RishavJain21/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RishavJain21/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
