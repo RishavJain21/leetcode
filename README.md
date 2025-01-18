@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RishavJain21/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0072-edit-distance](https://github.com/RishavJain21/leetcode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/RishavJain21/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishavJain21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -274,6 +275,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/RishavJain21/leetcode/tree/master/0072-edit-distance) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishavJain21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/RishavJain21/leetcode/tree/master/1250-longest-common-subsequence) |
