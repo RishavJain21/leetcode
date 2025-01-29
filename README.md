@@ -167,6 +167,7 @@
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/RishavJain21/leetcode/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/RishavJain21/leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/RishavJain21/leetcode/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/RishavJain21/leetcode/tree/master/1002-maximum-width-ramp) |
@@ -278,6 +279,7 @@
 | [0072-edit-distance](https://github.com/RishavJain21/leetcode/tree/master/0072-edit-distance) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishavJain21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0542-01-matrix](https://github.com/RishavJain21/leetcode/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/RishavJain21/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RishavJain21/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -415,6 +417,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/RishavJain21/leetcode/tree/master/0542-01-matrix) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishavJain21/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RishavJain21/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -429,6 +432,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/RishavJain21/leetcode/tree/master/0542-01-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RishavJain21/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RishavJain21/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Bit Manipulation
