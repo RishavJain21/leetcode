@@ -168,6 +168,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/RishavJain21/leetcode/tree/master/0542-01-matrix) |
+| [0679-24-game](https://github.com/RishavJain21/leetcode/tree/master/0679-24-game) |
 | [0729-my-calendar-i](https://github.com/RishavJain21/leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/RishavJain21/leetcode/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/RishavJain21/leetcode/tree/master/1002-maximum-width-ramp) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishavJain21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
+| [0679-24-game](https://github.com/RishavJain21/leetcode/tree/master/0679-24-game) |
 | [2716-prime-subtraction-operation](https://github.com/RishavJain21/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
@@ -451,6 +453,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/RishavJain21/leetcode/tree/master/0051-n-queens) |
+| [0679-24-game](https://github.com/RishavJain21/leetcode/tree/master/0679-24-game) |
 ## Binary Search Tree
 |  |
 | ------- |
