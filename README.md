@@ -195,6 +195,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RishavJain21/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishavJain21/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RishavJain21/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3429-special-array-i](https://github.com/RishavJain21/leetcode/tree/master/3429-special-array-i) |
 ## Math
 |  |
 | ------- |
