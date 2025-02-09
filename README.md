@@ -185,6 +185,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/RishavJain21/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RishavJain21/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RishavJain21/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/RishavJain21/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RishavJain21/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RishavJain21/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishavJain21/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -205,6 +206,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/RishavJain21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
 | [0679-24-game](https://github.com/RishavJain21/leetcode/tree/master/0679-24-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/RishavJain21/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/RishavJain21/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
@@ -259,6 +261,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/RishavJain21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RishavJain21/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RishavJain21/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/RishavJain21/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RishavJain21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RishavJain21/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -272,6 +275,7 @@
 | [1364-tuple-with-same-product](https://github.com/RishavJain21/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RishavJain21/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RishavJain21/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/RishavJain21/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RishavJain21/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Greedy
 |  |
