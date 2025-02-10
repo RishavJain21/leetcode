@@ -239,6 +239,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RishavJain21/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/RishavJain21/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishavJain21/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/RishavJain21/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/RishavJain21/leetcode/tree/master/3451-string-compression-iii) |
 ## Sorting
 |  |
@@ -386,6 +387,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/RishavJain21/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RishavJain21/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RishavJain21/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/RishavJain21/leetcode/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -414,6 +416,7 @@
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RishavJain21/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RishavJain21/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/RishavJain21/leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
