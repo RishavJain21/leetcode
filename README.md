@@ -165,6 +165,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/RishavJain21/leetcode/tree/master/0051-n-queens) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/RishavJain21/leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/RishavJain21/leetcode/tree/master/0542-01-matrix) |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/RishavJain21/leetcode/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/RishavJain21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RishavJain21/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RishavJain21/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0229-majority-element-ii](https://github.com/RishavJain21/leetcode/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/RishavJain21/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -273,6 +276,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/RishavJain21/leetcode/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1364-tuple-with-same-product](https://github.com/RishavJain21/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RishavJain21/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
