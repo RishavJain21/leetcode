@@ -166,6 +166,7 @@
 | [0018-4sum](https://github.com/RishavJain21/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/RishavJain21/leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/RishavJain21/leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/RishavJain21/leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0015-3sum](https://github.com/RishavJain21/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RishavJain21/leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/RishavJain21/leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/RishavJain21/leetcode/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
