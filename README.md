@@ -167,6 +167,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/RishavJain21/leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/RishavJain21/leetcode/tree/master/0056-merge-intervals) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/RishavJain21/leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -357,6 +358,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/RishavJain21/leetcode/tree/master/0729-my-calendar-i) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
