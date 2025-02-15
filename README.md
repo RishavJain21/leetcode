@@ -177,6 +177,7 @@
 | [0679-24-game](https://github.com/RishavJain21/leetcode/tree/master/0679-24-game) |
 | [0729-my-calendar-i](https://github.com/RishavJain21/leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/RishavJain21/leetcode/tree/master/0859-design-circular-deque) |
+| [0907-koko-eating-bananas](https://github.com/RishavJain21/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/RishavJain21/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/RishavJain21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RishavJain21/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -363,6 +364,7 @@
 | [0162-find-peak-element](https://github.com/RishavJain21/leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/RishavJain21/leetcode/tree/master/0729-my-calendar-i) |
+| [0907-koko-eating-bananas](https://github.com/RishavJain21/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RishavJain21/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RishavJain21/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
