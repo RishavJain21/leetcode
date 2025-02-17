@@ -167,6 +167,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/RishavJain21/leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/RishavJain21/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/RishavJain21/leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RishavJain21/leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
@@ -479,6 +480,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RishavJain21/leetcode/tree/master/0078-subsets) |
 | [1940-maximum-xor-for-each-query](https://github.com/RishavJain21/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RishavJain21/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RishavJain21/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -492,6 +494,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/RishavJain21/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/RishavJain21/leetcode/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/RishavJain21/leetcode/tree/master/0679-24-game) |
 ## Binary Search Tree
 |  |
