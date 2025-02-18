@@ -346,6 +346,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavJain21/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/RishavJain21/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -451,6 +452,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavJain21/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishavJain21/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -466,6 +468,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavJain21/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishavJain21/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
