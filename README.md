@@ -346,6 +346,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RishavJain21/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavJain21/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -452,6 +453,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RishavJain21/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavJain21/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -461,6 +463,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RishavJain21/leetcode/tree/master/0100-same-tree) |
 | [0542-01-matrix](https://github.com/RishavJain21/leetcode/tree/master/0542-01-matrix) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishavJain21/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -468,6 +471,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RishavJain21/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavJain21/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
