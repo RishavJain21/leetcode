@@ -223,6 +223,7 @@
 | [0008-string-to-integer-atoi](https://github.com/RishavJain21/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RishavJain21/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/RishavJain21/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/RishavJain21/leetcode/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/RishavJain21/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishavJain21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RishavJain21/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/RishavJain21/leetcode/tree/master/0076-minimum-window-substring) |
 | [0229-majority-element-ii](https://github.com/RishavJain21/leetcode/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -432,6 +434,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RishavJain21/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/RishavJain21/leetcode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RishavJain21/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RishavJain21/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
