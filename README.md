@@ -171,6 +171,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RishavJain21/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RishavJain21/leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RishavJain21/leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
@@ -261,6 +262,7 @@
 | [0018-4sum](https://github.com/RishavJain21/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/RishavJain21/leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RishavJain21/leetcode/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/RishavJain21/leetcode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/RishavJain21/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -458,6 +460,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1304-longest-happy-string](https://github.com/RishavJain21/leetcode/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RishavJain21/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Tree
@@ -521,4 +524,12 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RishavJain21/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
