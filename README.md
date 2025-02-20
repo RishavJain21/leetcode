@@ -180,6 +180,7 @@
 | [0859-design-circular-deque](https://github.com/RishavJain21/leetcode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/RishavJain21/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/RishavJain21/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1046-max-consecutive-ones-iii](https://github.com/RishavJain21/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RishavJain21/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1256-rank-transform-of-an-array](https://github.com/RishavJain21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RishavJain21/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -374,6 +375,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/RishavJain21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/RishavJain21/leetcode/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/RishavJain21/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/RishavJain21/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RishavJain21/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RishavJain21/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -417,6 +419,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/RishavJain21/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1694-make-sum-divisible-by-p](https://github.com/RishavJain21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/RishavJain21/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Two Pointers
@@ -439,6 +442,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RishavJain21/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/RishavJain21/leetcode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/RishavJain21/leetcode/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/RishavJain21/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RishavJain21/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RishavJain21/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Simulation
