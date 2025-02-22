@@ -235,6 +235,7 @@
 | [0812-rotate-string](https://github.com/RishavJain21/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RishavJain21/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/RishavJain21/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/RishavJain21/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/RishavJain21/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RishavJain21/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -358,6 +359,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavJain21/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/RishavJain21/leetcode/tree/master/0386-lexicographical-numbers) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/RishavJain21/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RishavJain21/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishavJain21/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RishavJain21/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -470,6 +472,7 @@
 | [0110-balanced-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavJain21/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/RishavJain21/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishavJain21/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RishavJain21/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -488,6 +491,7 @@
 | [0110-balanced-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavJain21/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/RishavJain21/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishavJain21/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RishavJain21/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RishavJain21/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
