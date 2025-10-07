@@ -188,6 +188,7 @@
 | [1364-tuple-with-same-product](https://github.com/RishavJain21/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RishavJain21/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RishavJain21/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1612-avoid-flood-in-the-city](https://github.com/RishavJain21/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1694-make-sum-divisible-by-p](https://github.com/RishavJain21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/RishavJain21/leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -284,6 +285,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/RishavJain21/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/RishavJain21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/RishavJain21/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1612-avoid-flood-in-the-city](https://github.com/RishavJain21/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1694-make-sum-divisible-by-p](https://github.com/RishavJain21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RishavJain21/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RishavJain21/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -312,6 +314,7 @@
 | [0179-largest-number](https://github.com/RishavJain21/leetcode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RishavJain21/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/RishavJain21/leetcode/tree/master/1304-longest-happy-string) |
+| [1612-avoid-flood-in-the-city](https://github.com/RishavJain21/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RishavJain21/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RishavJain21/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -385,6 +388,7 @@
 | [0907-koko-eating-bananas](https://github.com/RishavJain21/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/RishavJain21/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RishavJain21/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1612-avoid-flood-in-the-city](https://github.com/RishavJain21/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishavJain21/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RishavJain21/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RishavJain21/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -469,6 +473,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RishavJain21/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1304-longest-happy-string](https://github.com/RishavJain21/leetcode/tree/master/1304-longest-happy-string) |
+| [1612-avoid-flood-in-the-city](https://github.com/RishavJain21/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RishavJain21/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Tree
 |  |
